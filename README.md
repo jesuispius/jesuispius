@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Phuoc Nguyen
-- 🌱 I’m currently majoring in Computer Science at Portland State University and will graduate in 2022.
-- 💞️ I’m learning and experiencing some languages and frameworks such as Python, C++, Java, Javascript, Typescript, ReactJS, HTML, CSS, Bootstrap. Database: PostgreSQL, MySQL
+- 🌱 I’m a newly undergrad and just graduated Summa Cum Laude (the highest honor) from Portland State University with my B.S in Computer Science.
+- 💞️ I’m learning and experiencing some languages and frameworks such as Python, React, Javascript, C++, HTML, CSS, Bootstrap, Tailwindcss, Flask, NodeJS, Typescript, Java, PostgreSQL, MySQL, etc.
 - 📫 Reaching me at phuocpius.nguyen8@gmail.com
 
 <!---
