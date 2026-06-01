@@ -1,9 +1,13 @@
-- 👋 Hi, I’m Phuoc Nguyen
-- 🌱 I’m a newly undergrad and just graduated Summa Cum Laude (the highest honor) from Portland State University with my B.S in Computer Science.
-- 💞️ I’m learning and experiencing some languages and frameworks such as Python, React, Javascript, C++, HTML, CSS, Bootstrap, Tailwindcss, Flask, NodeJS, Typescript, Java, PostgreSQL, MySQL, etc.
-- 📫 Reaching me at phuocpius.nguyen8@gmail.com
+# Hi, I'm Phuoc Nguyen 👋
 
-<!---
-jesuispius/jesuispius is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Full-stack Software Engineer** with 4+ years of experience building products in startup environments — from early development through production release.
+
+Comfortable across frontend, backend, internal tools, and data visualization. I like turning business requirements into reliable, user-centered software.
+
+📍 Hue, Vietnam
+
+## 🎓 Education
+**B.S. Computer Science**, Portland State University, Portland, Oregon — 4.0 GPA, Summa Cum Laude
+
+## 📫 Connect
+[Portfolio](https://jesuispius.github.io/Phuoc-Trong-Nguyen-Portfolio/) · [LinkedIn](https://www.linkedin.com/in/phuoc-nguyen-trong/) · [GitHub](https://github.com/jesuispius)
